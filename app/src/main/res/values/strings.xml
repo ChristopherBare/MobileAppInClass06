@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="text_go">GO</string>
+    <string name="text_title">Title</string>
+    <string name="text_published">Published At</string>
+    <string name="text_desc">Description</string>
+    <string name="text_position">Position</string>
+    <string name="image">Image</string>
+</resources>
